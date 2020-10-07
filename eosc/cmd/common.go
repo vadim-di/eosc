@@ -15,8 +15,8 @@ import (
 	"github.com/eoscanada/eos-go"
 	"github.com/eoscanada/eos-go/ecc"
 	"github.com/eoscanada/eos-go/sudo"
-	"github.com/eoscanada/eosc/cli"
-	eosvault "github.com/eoscanada/eosc/vault"
+	"github.com/vadim-di/eosc/cli"
+	eosvault "github.com/vadim-di/eosc/vault"
 	"github.com/spf13/viper"
 	"github.com/tidwall/sjson"
 )
