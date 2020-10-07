@@ -10,14 +10,14 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/vadim-di/eos-go"
 
 	// Load these so `Unpack` does Action unpacking with known ABIs.
-	_ "github.com/eoscanada/eos-go/forum"
-	_ "github.com/eoscanada/eos-go/msig"
-	"github.com/eoscanada/eos-go/sudo"
-	"github.com/eoscanada/eos-go/system"
-	_ "github.com/eoscanada/eos-go/token"
+	_ "github.com/vadim-di/eos-go/forum"
+	_ "github.com/vadim-di/eos-go/msig"
+	"github.com/vadim-di/eos-go/sudo"
+	"github.com/vadim-di/eos-go/system"
+	_ "github.com/vadim-di/eos-go/token"
 )
 
 type Analyzer struct {

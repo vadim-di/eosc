@@ -8,8 +8,8 @@ import (
 
 	"encoding/hex"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/p2p"
+	"github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/p2p"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

@@ -12,9 +12,9 @@ import (
 	"time"
 
 	yaml2json "github.com/bronze1man/go-yaml2json"
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/sudo"
+	"github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/ecc"
+	"github.com/vadim-di/eos-go/sudo"
 	"github.com/vadim-di/eosc/cli"
 	eosvault "github.com/vadim-di/eosc/vault"
 	"github.com/spf13/viper"

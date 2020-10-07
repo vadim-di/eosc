@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/eoscanada/eos-go/system"
+	"github.com/vadim-di/eos-go/system"
 	"github.com/spf13/cobra"
 )
 

@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/system"
+	"github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/system"
 	"github.com/spf13/cobra"
 )
 

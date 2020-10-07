@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/msig"
-	"github.com/eoscanada/eos-go/system"
-	"github.com/eoscanada/eos-go/token"
+	eos "github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/msig"
+	"github.com/vadim-di/eos-go/system"
+	"github.com/vadim-di/eos-go/token"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

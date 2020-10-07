@@ -8,8 +8,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/ecc"
 	"github.com/vadim-di/eosc/cli"
 	eosvault "github.com/vadim-di/eosc/vault"
 	"github.com/spf13/cobra"

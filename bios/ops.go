@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"reflect"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/system"
-	"github.com/eoscanada/eos-go/token"
+	eos "github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/ecc"
+	"github.com/vadim-di/eos-go/system"
+	"github.com/vadim-di/eos-go/token"
 	"github.com/vadim-di/eosc/bios/unregd"
 )
 

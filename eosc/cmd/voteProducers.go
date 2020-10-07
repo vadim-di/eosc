@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/system"
+	eos "github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/system"
 	"github.com/spf13/cobra"
 )
 

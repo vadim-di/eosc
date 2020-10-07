@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/vadim-di/eos-go"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"github.com/tidwall/gjson"

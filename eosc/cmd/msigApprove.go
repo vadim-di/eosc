@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/eoscanada/eos-go/msig"
+	"github.com/vadim-di/eos-go/msig"
 	"github.com/spf13/cobra"
 )
 

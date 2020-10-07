@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/vadim-di/eos-go"
 	"github.com/vadim-di/eosc/analysis"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

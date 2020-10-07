@@ -5,8 +5,8 @@ import (
 	"encoding/csv"
 	"fmt"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/vadim-di/eos-go"
+	"github.com/vadim-di/eos-go/ecc"
 )
 
 type Snapshot []SnapshotLine
