@@ -7,7 +7,7 @@ import (
 	"os"
 
 	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eosc/analysis"
+	"github.com/vadim-di/eosc/analysis"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

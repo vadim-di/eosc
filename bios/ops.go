@@ -10,7 +10,7 @@ import (
 	"github.com/eoscanada/eos-go/ecc"
 	"github.com/eoscanada/eos-go/system"
 	"github.com/eoscanada/eos-go/token"
-	"github.com/eoscanada/eosc/bios/unregd"
+	"github.com/vadim-di/eosc/bios/unregd"
 )
 
 type Operation interface {

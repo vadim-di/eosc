@@ -6,8 +6,8 @@ import (
 	"fmt"
 
 	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eosc/cli"
-	eosvault "github.com/eoscanada/eosc/vault"
+	"github.com/vadim-di/eosc/cli"
+	eosvault "github.com/vadim-di/eosc/vault"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
